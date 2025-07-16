@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>header_Move Locations</name>
+   <tag></tag>
+   <elementGuidId>12a460af-8df6-4bf5-a10b-abbd28824fe8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-body-content']/div[6]/div/div/div/header</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>header</value>
+      <webElementGuid>5d7fc0d4-6515-41b9-8776-c59306e8e8a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Move Locations</value>
+      <webElementGuid>1f256d5c-a598-4627-ad67-00f38b968462</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-body-content&quot;)/div[@class=&quot;row location-panels&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card card-box&quot;]/div[@class=&quot;card-head&quot;]/header[1]</value>
+      <webElementGuid>5c97106c-47cf-4a01-89ab-338ea13ba869</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-body-content']/div[6]/div/div/div/header</value>
+      <webElementGuid>fdfc7e0d-19ce-454f-a50c-9505597bb4a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[2]/following::header[1]</value>
+      <webElementGuid>7d06e17a-1208-4ad2-b8e4-45bea9358346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[2]/following::header[1]</value>
+      <webElementGuid>9cf5c205-3954-4e14-96cc-16f44959a5be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Move Location'])[1]/preceding::header[1]</value>
+      <webElementGuid>720d1ac0-e23a-4343-8ba5-466154702298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Move Locations']/parent::*</value>
+      <webElementGuid>69eb689e-bf73-4d21-9582-d823b44a453e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/header</value>
+      <webElementGuid>c9547686-11c4-4503-8ed2-240dff599a5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//header[(text() = 'Move Locations' or . = 'Move Locations')]</value>
+      <webElementGuid>47c15747-a82a-4971-b8d2-fbbc48b63632</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

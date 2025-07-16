@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_-- Select Import Type --CSV</name>
+   <tag></tag>
+   <elementGuidId>3a6ae753-126d-42a0-884e-f1ec37c505cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ImportType</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ImportType']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>2707ad20-a360-4218-add7-d1107877c48c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>a4f91b9e-fc44-4e1c-b5ce-57a9d2b2c444</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>1700cf41-ad06-49c2-bbb3-4cdf671ba2cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-length</name>
+      <type>Main</type>
+      <value>The field Import Type must be a string with a maximum length of 50.</value>
+      <webElementGuid>d33b795d-c80a-4048-9291-dab478016dff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-length-max</name>
+      <type>Main</type>
+      <value>50</value>
+      <webElementGuid>95179d77-f52f-47cb-bb32-8f379148f96d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-val-required</name>
+      <type>Main</type>
+      <value>The Import Type field is required.</value>
+      <webElementGuid>e51160c3-5d76-46c1-a967-074db0d20d91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ImportType</value>
+      <webElementGuid>36e1a2ac-cb7a-4536-a14b-a70738008ee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ImportType</value>
+      <webElementGuid>a3d42b5a-b363-4176-8e6e-99aa8757257c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+							-- Select Import Type --
+						CSV
+</value>
+      <webElementGuid>d6ff3268-ffa7-4e2e-84b5-be16bc6c7356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ImportType&quot;)</value>
+      <webElementGuid>f66e5093-f321-41a3-9f27-b59632b4cd57</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ImportType']</value>
+      <webElementGuid>8efaaa90-6da8-4454-aec3-12fb8d565d41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='CreateImportCustomerForm']/div[4]/select</value>
+      <webElementGuid>92c55bea-4c85-4806-9f5a-971badbec42d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import Type'])[1]/following::select[1]</value>
+      <webElementGuid>4b6b0af3-c226-4dba-ace1-f6bec341b244</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Number'])[1]/following::select[1]</value>
+      <webElementGuid>3835f413-54b9-4fac-81f7-21290f7a4160</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Default Location'])[1]/preceding::select[1]</value>
+      <webElementGuid>42991801-e1ff-497f-9ca7-f8ccf542b060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Header Row'])[1]/preceding::select[1]</value>
+      <webElementGuid>3aa35b08-6ffd-45c4-99e5-cf0093532131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>e7a91da7-126c-475b-8c6b-9b254358e57a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ImportType' and @name = 'ImportType' and (text() = '
+							-- Select Import Type --
+						CSV
+' or . = '
+							-- Select Import Type --
+						CSV
+')]</value>
+      <webElementGuid>923476e7-20e7-4a08-8e08-056db9b71b64</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
