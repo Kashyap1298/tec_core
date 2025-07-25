@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Contains</name>
+   <tag></tag>
+   <elementGuidId>963a3100-d972-44bf-96d5-c2048acc33b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='d0485921-3548-4348-83ad-8f827e2898a8_listbox']/li[4]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.k-list-item.k-hover > span.k-list-item-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4243beaf-d9fe-454a-b35a-8feec6539002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-list-item-text</value>
+      <webElementGuid>dcb5db3b-35fc-4f4b-8fd1-e777293401bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contains</value>
+      <webElementGuid>9e3ae785-4a9c-4d55-b872-54d3f6649396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;d0485921-3548-4348-83ad-8f827e2898a8_listbox&quot;)/li[@class=&quot;k-list-item k-hover&quot;]/span[@class=&quot;k-list-item-text&quot;]</value>
+      <webElementGuid>83a3afcd-e85f-44a4-b389-8b4725159e38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='d0485921-3548-4348-83ad-8f827e2898a8_listbox']/li[4]/span</value>
+      <webElementGuid>0e54a149-4da9-4ee7-aef7-45936ef2c29f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Starts with'])[2]/following::span[1]</value>
+      <webElementGuid>56f08097-7971-4609-abef-4804e31df2a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Is not equal to'])[2]/following::span[2]</value>
+      <webElementGuid>19f216b9-ba1a-4a14-9c50-5ca9ee68c770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Does not contain'])[2]/preceding::span[1]</value>
+      <webElementGuid>4cc0b5f8-ac4e-42b7-bf9b-9979481b587e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ends with'])[2]/preceding::span[2]</value>
+      <webElementGuid>633f0567-e009-4f53-939c-6daec9c66d32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/ul/li[4]/span</value>
+      <webElementGuid>eec40eee-42bc-43c7-b1ce-32e0abb786ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Contains' or . = 'Contains')]</value>
+      <webElementGuid>754b64e3-a519-4578-96da-8009eafa63ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

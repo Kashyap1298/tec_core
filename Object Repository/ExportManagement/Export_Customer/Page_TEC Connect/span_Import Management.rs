@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Import Management</name>
+   <tag></tag>
+   <elementGuidId>1a90b4a5-cffa-4045-9540-4abf0d4e0c85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='remove-scroll']/div/ul/li[4]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>462608cf-c0cb-4f45-89aa-2110f988c085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>88c16b84-6351-48ef-8511-6d16eee4a471</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Import Management</value>
+      <webElementGuid>e6f37e0a-7147-4504-bd8e-c1c391ba25ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;remove-scroll&quot;)/div[@class=&quot;slimScrollDiv&quot;]/ul[@class=&quot;sidemenu  page-header-fixed slimscroll-style&quot;]/li[@class=&quot;nav-item root-item&quot;]/a[@class=&quot;nav-link nav-toggle&quot;]/span[@class=&quot;title&quot;]</value>
+      <webElementGuid>fe2216c4-4cb6-476f-9bb2-6024690d16f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='remove-scroll']/div/ul/li[4]/a/span</value>
+      <webElementGuid>23a1e03b-86d9-4e40-8da3-4ea85c89d019</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='account_box'])[2]/following::span[1]</value>
+      <webElementGuid>c770f6d9-d0fd-4645-ad11-65a86f66b4c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEC Connect'])[3]/following::span[1]</value>
+      <webElementGuid>1327d438-b14b-47a0-9a20-c09f20176f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Import'])[1]/preceding::span[3]</value>
+      <webElementGuid>8e08450b-9d11-4b13-8f6f-62b404678e67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import Customer'])[1]/preceding::span[5]</value>
+      <webElementGuid>dc1144e0-2b27-4a1f-861e-4f35ed3e010f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Import Management']/parent::*</value>
+      <webElementGuid>5117cc67-2135-49d2-8535-fdaa3006c130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[4]/a/span</value>
+      <webElementGuid>890b52ce-12e3-4df8-a665-97b1da7e904b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Import Management' or . = 'Import Management')]</value>
+      <webElementGuid>025f6e4f-cb7c-4c60-b1c1-dabf32953f49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

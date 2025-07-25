@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Or_k-icon k-svg-icon k-svg-i-filter-ad_03ab0b</name>
+   <tag></tag>
+   <elementGuidId>ec22eccd-c5de-41fd-ad55-5a605258db78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='d75d69e5-187d-444b-8ab4-58ee881ad27c']/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-icon.k-svg-icon.k-svg-i-filter-add-expression.k-button-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1bd2e847-412b-423f-8783-e5e065f2331b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-icon k-svg-icon k-svg-i-filter-add-expression k-button-icon</value>
+      <webElementGuid>63ec4e0f-efc3-4c93-9ffb-9fad1319230d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>bf9b11f0-8a2d-43f1-aa29-697dc57b8fbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;d75d69e5-187d-444b-8ab4-58ee881ad27c&quot;)/button[@class=&quot;k-button k-button-md k-rounded-md k-button-solid k-button-solid-base k-icon-button k-toolbar-button k-toolbar-tool k-focus&quot;]/span[@class=&quot;k-icon k-svg-icon k-svg-i-filter-add-expression k-button-icon&quot;]</value>
+      <webElementGuid>eed7f280-2f02-4133-b52e-2aa19b39276f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='d75d69e5-187d-444b-8ab4-58ee881ad27c']/button/span</value>
+      <webElementGuid>aeeae978-d68d-4733-b288-dcea4801bb4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or'])[1]/following::span[1]</value>
+      <webElementGuid>891df69e-e6b6-43f8-90ed-0e6c723e0f50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='And'])[1]/following::span[2]</value>
+      <webElementGuid>d5b15c0f-8e73-4d29-a39d-79a40dc2f646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/preceding::span[3]</value>
+      <webElementGuid>35908cc8-a33b-4b3a-915c-386ad554045b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/button/span</value>
+      <webElementGuid>c3b835a6-b0eb-4ff6-9efe-6738190d1c9e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

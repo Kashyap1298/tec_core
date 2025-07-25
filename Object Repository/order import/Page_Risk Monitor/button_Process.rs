@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Process</name>
+   <tag></tag>
+   <elementGuidId>1e37ee5c-9d0c-4c36-865a-a2329f0a3af4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr[class='k-table-row k-master-row'] span[class='k-button-text']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[contains(@div, '/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/button[1]/span[1]')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[contains(@class, 'k-grid-Process')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>21ecf1c5-cddf-457c-9230-cf5605ee3570</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7849a6f6-5540-4de7-aced-5697117ebd4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-grid-Process k-primary k-button k-button-md k-rounded-md k-button-solid k-button-solid-base</value>
+      <webElementGuid>db217ea6-95f0-4f1c-8c7c-ada0ef784d79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Process</value>
+      <webElementGuid>3a38876e-2477-4108-9f2e-7c35a8d0f77e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fd48709f-885e-47d3-a06f-ac1227d536a2&quot;)/tr[@class=&quot;k-table-row k-master-row&quot;]/td[@class=&quot;k-command-cell k-table-td&quot;]/button[@class=&quot;k-grid-Process k-primary k-button k-button-md k-rounded-md k-button-solid k-button-solid-base&quot;]</value>
+      <webElementGuid>add7d826-093a-4eda-adb6-e08a2be1f579</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>contains</matchCondition>
+      <name>div</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/div[3]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[1]/table[1]/tbody[1]/tr[1]/td[3]/button[1]/span[1]</value>
+      <webElementGuid>39d627d2-f8c8-467e-acb5-a4aea46a7f00</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>f4a4ac31-cdea-4ad0-8552-4c208be9ebfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='fd48709f-885e-47d3-a06f-ac1227d536a2']/tr/td[3]/button</value>
+      <webElementGuid>8a67935c-cbf2-47dc-942d-f291c0b18db3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PersonalData.csv'])[1]/following::button[1]</value>
+      <webElementGuid>f8ea5cc9-baaa-4320-b8db-51a2199e5822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Actions'])[1]/following::button[1]</value>
+      <webElementGuid>06ce3119-cee3-4d3a-a598-7dba41281d3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='items per page'])[1]/preceding::button[6]</value>
+      <webElementGuid>d9a1c5b1-5ee2-44a9-93f7-c8af3f33945a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/button</value>
+      <webElementGuid>d84261d1-6a74-4d6e-ae94-ed3d11be71e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Process' or . = 'Process')]</value>
+      <webElementGuid>3ef22ec0-824c-4155-bc00-62c5e5c6c42b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

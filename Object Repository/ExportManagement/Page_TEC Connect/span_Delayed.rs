@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Delayed</name>
+   <tag></tag>
+   <elementGuidId>60727ff7-d5f8-4769-adf5-872e33c49bd2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li/span[normalize-space()='Delayed']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.k-list-item.k-hover > span.k-list-item-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>861e75d8-c2e8-45c1-b243-40f1592baeeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-list-item-text</value>
+      <webElementGuid>9bf09511-0d79-4346-a25b-aa0c4fb8b9be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delayed</value>
+      <webElementGuid>f9b16715-bc0e-4b1f-bee0-cbb6748eb86b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dd0ea2ed-327f-43ee-9d60-fa815533fc78_listbox&quot;)/li[@class=&quot;k-list-item k-hover&quot;]/span[@class=&quot;k-list-item-text&quot;]</value>
+      <webElementGuid>944929d2-62fb-4a2f-8c8e-e0cb99c2ed02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='dd0ea2ed-327f-43ee-9d60-fa815533fc78_listbox']/li[6]/span</value>
+      <webElementGuid>4f54bb0b-2c95-4633-9ecf-4ad44e69aaff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date Created'])[3]/following::span[1]</value>
+      <webElementGuid>cd6193fc-120d-4d3e-8601-ac59c0ac48bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date To Process'])[3]/following::span[2]</value>
+      <webElementGuid>0a16d2f9-68fd-4091-8c0a-21ce3ec22a82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Processed'])[3]/preceding::span[1]</value>
+      <webElementGuid>f9ab3a85-af0b-4846-a502-13a9862e83c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[3]/preceding::span[2]</value>
+      <webElementGuid>8636bd0a-650c-490a-93f3-1a8f52df0dec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/ul/li[6]/span</value>
+      <webElementGuid>7b2b6757-cbd2-4f5d-be26-13e318e88f77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Delayed' or . = 'Delayed')]</value>
+      <webElementGuid>9c553a3b-5384-4f3a-9131-fcacff0e579c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

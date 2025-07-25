@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Is equal to_k-numerictextbox k-input k_8df2fb</name>
+   <tag></tag>
+   <elementGuidId>5dae9d3e-345c-4f18-8b9b-085f12fb0aa0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='a1749992-6d7c-4019-b444-50750da8f875']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-numerictextbox.k-input.k-input-solid.k-input-md.k-rounded-md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2e8db338-847c-4771-8303-ebb0d0265d0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-numerictextbox k-input k-input-solid k-input-md k-rounded-md</value>
+      <webElementGuid>fce16c7e-5430-4d00-b051-ac8478db8abf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a1749992-6d7c-4019-b444-50750da8f875&quot;)/div[@class=&quot;k-toolbar-item k-filter-value k-toolbar-tool&quot;]/span[@class=&quot;k-numerictextbox k-input k-input-solid k-input-md k-rounded-md&quot;]</value>
+      <webElementGuid>97a3b35d-a7cc-4c6d-9501-6104ecd3b975</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='a1749992-6d7c-4019-b444-50750da8f875']/div/span</value>
+      <webElementGuid>3b04175f-1638-435c-a236-330635dcd203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Is equal to'])[1]/following::span[3]</value>
+      <webElementGuid>04e5a6ce-e288-4fd8-aabd-978b63447ccd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Type'])[1]/following::span[9]</value>
+      <webElementGuid>5720934c-9f78-4064-9f05-331f818e56b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='('])[1]/preceding::span[6]</value>
+      <webElementGuid>403cd440-b524-4ad7-8135-4ad857f65aa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Type'])[3]/preceding::span[7]</value>
+      <webElementGuid>f46304ce-f838-4291-8877-9d97ef23a972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/div/span</value>
+      <webElementGuid>da6277e7-9743-455f-997a-f10b941297f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

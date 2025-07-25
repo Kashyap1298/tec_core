@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Export Management</name>
+   <tag></tag>
+   <elementGuidId>13d395fb-cf98-4e1b-a5e6-82e9e18ce68e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='remove-scroll']/div/ul/li[5]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>129543ca-3dc2-4366-ac17-90bddb642020</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>622eb97a-17b4-4720-bf8d-c7b9906d7ace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Export Management</value>
+      <webElementGuid>62582e85-6be3-48c3-882c-7f2c28a46ba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;remove-scroll&quot;)/div[@class=&quot;slimScrollDiv&quot;]/ul[@class=&quot;sidemenu  page-header-fixed slimscroll-style&quot;]/li[@class=&quot;nav-item root-item&quot;]/a[@class=&quot;nav-link nav-toggle&quot;]/span[@class=&quot;title&quot;]</value>
+      <webElementGuid>83f4dce7-1d17-4ffa-a795-dc1d0d74f4e5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='remove-scroll']/div/ul/li[5]/a/span</value>
+      <webElementGuid>1f6f717a-2bb3-4f39-bcd4-ee648e6b9035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='account_box'])[3]/following::span[1]</value>
+      <webElementGuid>3a4f5dfd-4add-49bf-b31e-47c63eda40cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prophet21 Customer'])[1]/following::span[2]</value>
+      <webElementGuid>2487dc4b-4923-4488-a465-3094470c00b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export Customer'])[1]/preceding::span[3]</value>
+      <webElementGuid>8fa28953-b672-4175-8488-8a13fab7f419</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Queues'])[1]/preceding::span[5]</value>
+      <webElementGuid>54de4950-111a-483c-ad18-31e0059b574d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Export Management']/parent::*</value>
+      <webElementGuid>607dec65-da66-4e37-beb5-720e77dfaff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/ul/li[5]/a/span</value>
+      <webElementGuid>f2570a4d-a33c-4f46-ba91-a5032d30c802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Export Management' or . = 'Export Management')]</value>
+      <webElementGuid>654515de-0ffd-44a8-a94b-dd2652abedcf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
