@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>order import</description>
+   <name>order import</name>
+   <tag>order import</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9c6bbcf9-a6a1-4ff2-9caf-bc625fd5213d</testCaseGuid>
+</TestCaseEntity>

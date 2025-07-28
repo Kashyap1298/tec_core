@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Export customer</description>
+   <name>Export customer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8aabb19b-bb1b-47fb-9874-b00a1ed9dc89</testCaseGuid>
+</TestCaseEntity>
