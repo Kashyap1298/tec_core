@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_YES_k-switch-thumb k-rounded-full_1</name>
+   <tag></tag>
+   <elementGuidId>5c1fc28d-d61a-407d-97e1-d7846e2bd4e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-body-content']/div[3]/div/div/div[2]/form/div[6]/span/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2a3f9f78-9e26-43cb-990b-36814c551830</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-switch-thumb k-rounded-full</value>
+      <webElementGuid>414478bc-61f7-43c2-a8e7-a7626afa1738</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-body-content&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card card-box&quot;]/div[@class=&quot;card-body&quot;]/form[1]/div[@class=&quot;form-group&quot;]/span[@class=&quot;k-switch k-switch-md k-rounded-full k-switch-on&quot;]/span[@class=&quot;k-switch-thumb-wrap&quot;]/span[@class=&quot;k-switch-thumb k-rounded-full&quot;]</value>
+      <webElementGuid>8d4b47cf-7e52-479a-a004-68c994939c9e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-body-content']/div[3]/div/div/div[2]/form/div[6]/span/span[2]/span</value>
+      <webElementGuid>469b0770-f0c0-4fd9-9404-79652429869b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/span/span[2]/span</value>
+      <webElementGuid>6cab4101-a770-4159-9a07-37a8b5fb26c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

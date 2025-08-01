@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_YESNO</name>
+   <tag></tag>
+   <elementGuidId>734e4db7-0aa3-40f9-8bfa-7f34c4971836</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-body-content']/div[3]/div/div/div[2]/form/div[7]/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2ddbad54-33be-4962-9443-1fcb3580fc25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-switch-track k-rounded-full</value>
+      <webElementGuid>a4cb7975-b8ae-4fe4-a79c-c04798db112c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>YESNO</value>
+      <webElementGuid>50ae25d1-2c3e-47d7-9e00-eab241aabc4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-body-content&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card card-box&quot;]/div[@class=&quot;card-body&quot;]/form[1]/div[@class=&quot;form-group&quot;]/span[@class=&quot;k-switch k-switch-md k-rounded-full k-switch-off&quot;]/span[@class=&quot;k-switch-track k-rounded-full&quot;]</value>
+      <webElementGuid>ca5bc839-d309-45dd-96c1-62ce3bcfa2cd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-body-content']/div[3]/div/div/div[2]/form/div[7]/span/span</value>
+      <webElementGuid>7baa90a1-70e6-4bac-87b4-a8c767b7ece1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UsesInvoiceExport'])[1]/following::span[2]</value>
+      <webElementGuid>5af09785-0978-4cf4-b555-a4d8149b2f04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YES'])[3]/following::span[6]</value>
+      <webElementGuid>2dae257b-bcb0-4503-b313-83bf0e9c279d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[6]</value>
+      <webElementGuid>d0690b63-6565-41c0-a4f0-c2951d3afd64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/span/span</value>
+      <webElementGuid>3c39f28a-5a75-4010-b8c9-403d2a39e52b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'YESNO' or . = 'YESNO')]</value>
+      <webElementGuid>f2f45e11-0613-4b56-86c5-f6630cc993e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

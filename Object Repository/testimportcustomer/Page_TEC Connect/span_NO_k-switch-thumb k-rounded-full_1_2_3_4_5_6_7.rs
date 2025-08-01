@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_NO_k-switch-thumb k-rounded-full_1_2_3_4_5_6_7</name>
+   <tag></tag>
+   <elementGuidId>d00a8651-673c-4f70-9673-ba8dff084875</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='CreateImportCustomerForm']/div[13]/span/span[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-switch.k-switch-md.k-rounded-full.k-switch-off > span.k-switch-thumb-wrap > span.k-switch-thumb.k-rounded-full</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ab8ba5b5-a89f-4523-ab32-473b612f8702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-switch-thumb k-rounded-full</value>
+      <webElementGuid>fef9c2d5-07d1-4378-9404-18bea99accf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CreateImportCustomerForm&quot;)/div[@class=&quot;form-group&quot;]/span[@class=&quot;k-switch k-switch-md k-rounded-full k-switch-off&quot;]/span[@class=&quot;k-switch-thumb-wrap&quot;]/span[@class=&quot;k-switch-thumb k-rounded-full&quot;]</value>
+      <webElementGuid>f452b56b-c7e0-40a3-9ac9-3bee86099e05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='CreateImportCustomerForm']/div[13]/span/span[2]/span</value>
+      <webElementGuid>6b339fba-25d5-43f4-8df3-0784c9bd5d60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/span/span[2]/span</value>
+      <webElementGuid>d7e1c76a-a09f-4ce2-a35e-8861cfa8c28c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

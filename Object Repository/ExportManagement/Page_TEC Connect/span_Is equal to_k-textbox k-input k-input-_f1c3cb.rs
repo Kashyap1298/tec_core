@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Is equal to_k-textbox k-input k-input-_f1c3cb</name>
+   <tag></tag>
+   <elementGuidId>689e044f-92c3-426b-b580-9af2af00b977</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bb623c1f-d22d-467f-8576-29d4d08f72c4']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-textbox.k-input.k-input-md.k-rounded-md.k-input-solid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>dd93a664-a495-416a-90c7-3dde2bc7e850</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-textbox k-input k-input-md k-rounded-md k-input-solid</value>
+      <webElementGuid>8b8ce5db-476c-48b6-9ee4-808a10e61d4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bb623c1f-d22d-467f-8576-29d4d08f72c4&quot;)/div[@class=&quot;k-toolbar-item k-filter-value k-toolbar-tool&quot;]/span[@class=&quot;k-textbox k-input k-input-md k-rounded-md k-input-solid&quot;]</value>
+      <webElementGuid>1f10041f-736a-45a0-95c8-cb410b5d46f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bb623c1f-d22d-467f-8576-29d4d08f72c4']/div/span</value>
+      <webElementGuid>4fb37da0-16b1-4ea9-a591-cff9ce2afeae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Is equal to'])[1]/following::span[3]</value>
+      <webElementGuid>a4632fa2-93e3-4f5e-b0e5-ce82c987f9f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Number'])[1]/following::span[9]</value>
+      <webElementGuid>bba323aa-34e1-4178-9f88-c0dd89ed7f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='('])[1]/preceding::span[2]</value>
+      <webElementGuid>b9529b13-9f9a-40b7-8148-61349cef4c3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Number'])[3]/preceding::span[3]</value>
+      <webElementGuid>e7a609fa-c23b-42ca-8dfa-6bcf68ebf478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/div/span</value>
+      <webElementGuid>704376b2-38e0-4dbc-8bca-300437a8653b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

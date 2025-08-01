@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Document Number_1_2_3_4_5_6</name>
+   <tag></tag>
+   <elementGuidId>1ea7f9a5-228b-4bb7-bbaf-48274df8d2d7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='b6520c36-a04f-4c19-b1f7-46f00fa9e7e9']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-input-value-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6d8cd495-9eb1-4012-b084-8668b7f5e7c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-input-value-text</value>
+      <webElementGuid>8e1fafb8-a89e-418c-8cdf-6b736954056e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Document Number</value>
+      <webElementGuid>4e3faa79-9931-4122-b8fa-bc377e0f0696</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;b6520c36-a04f-4c19-b1f7-46f00fa9e7e9&quot;)/span[@class=&quot;k-input-value-text&quot;]</value>
+      <webElementGuid>04f70e5e-b36f-4d2c-92cb-18ef768dd230</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='b6520c36-a04f-4c19-b1f7-46f00fa9e7e9']/span</value>
+      <webElementGuid>675398b0-b767-4720-a051-39ada334bd8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or'])[1]/following::span[7]</value>
+      <webElementGuid>ec0d3db3-1f34-45e1-9714-78cca412fc7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='And'])[1]/following::span[8]</value>
+      <webElementGuid>58dda65c-9eff-4b02-87b0-01e134f700eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Is equal to'])[1]/preceding::span[3]</value>
+      <webElementGuid>027ee76a-b543-4d04-a1ea-039e02105e6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='('])[1]/preceding::span[11]</value>
+      <webElementGuid>3dd5e345-b70f-4c03-a6fa-1766b88fd3c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Document Number']/parent::*</value>
+      <webElementGuid>06c9453c-3792-4a12-8391-167556c86af1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span/span/span</value>
+      <webElementGuid>787970e8-820c-4942-94bd-b057de8575f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Document Number' or . = 'Document Number')]</value>
+      <webElementGuid>a6b12c49-b3f4-4073-88d2-4d86d685e90c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Import Customer</name>
+   <tag></tag>
+   <elementGuidId>7f54e1ee-1bd4-476d-af43-fd5eac18344f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='remove-scroll']/div/ul/li[4]/ul/li[2]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d6f6b66c-c2e3-4b2d-9ce5-9171c1162538</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>de94be52-cd71-43b7-ad40-50fc1e669396</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Import Customer</value>
+      <webElementGuid>35eadf17-e0ce-4f26-a04c-7ecb3ee3dbee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;remove-scroll&quot;)/div[@class=&quot;slimScrollDiv&quot;]/ul[@class=&quot;sidemenu  page-header-fixed slimscroll-style&quot;]/li[@class=&quot;nav-item root-item open&quot;]/ul[@class=&quot;sub-menu side-menu&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]/span[@class=&quot;title&quot;]</value>
+      <webElementGuid>178750c0-271f-419f-850b-46c90fdd14a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='remove-scroll']/div/ul/li[4]/ul/li[2]/a/span</value>
+      <webElementGuid>00919314-1d01-48a0-857c-ef7d31d87f75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Import'])[1]/following::span[2]</value>
+      <webElementGuid>f2317651-8edd-47e3-8277-f17f779b1bcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Import Management'])[1]/following::span[5]</value>
+      <webElementGuid>91a03f06-d5f7-4009-8bd3-ad26960af350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='account_box'])[3]/preceding::span[2]</value>
+      <webElementGuid>46edc4d4-6ae0-4151-ab20-b3b5693d10ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::span[2]</value>
+      <webElementGuid>8fe08288-8521-4599-83c6-39546fd1d4d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Import Customer']/parent::*</value>
+      <webElementGuid>8406253f-7372-4888-9cea-0d3dcab1fb36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/ul/li[2]/a/span</value>
+      <webElementGuid>81354149-9c26-4449-84e5-f31672fc3fb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Import Customer' or . = 'Import Customer')]</value>
+      <webElementGuid>9db94d2a-dbb1-4498-b4a1-05bdcf97002a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

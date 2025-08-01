@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>header_Watch Locations</name>
+   <tag></tag>
+   <elementGuidId>62a01b0a-7f6d-4400-8125-cdb148c9ae63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='page-body-content']/div[5]/div/div/div/header</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>header</value>
+      <webElementGuid>e22be718-720f-461b-96d7-30e1d988388e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Watch Locations</value>
+      <webElementGuid>81226d14-56ad-4524-b6da-ef377871fa3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;page-body-content&quot;)/div[@class=&quot;row location-panels&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;card card-box&quot;]/div[@class=&quot;card-head&quot;]/header[1]</value>
+      <webElementGuid>c0843dda-8e5a-438d-8309-68c5e6d6a764</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-body-content']/div[5]/div/div/div/header</value>
+      <webElementGuid>1dbbf895-b15b-4a25-b067-752e17d2ae06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/following::header[1]</value>
+      <webElementGuid>c4a5ea4f-304e-4580-9947-810c20a46c59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::header[1]</value>
+      <webElementGuid>222ba277-919c-48e2-ad7d-ea44957e5324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Watch Location'])[1]/preceding::header[1]</value>
+      <webElementGuid>5efc30af-ea59-4ec1-a2a5-5c53b0f4c12b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Watch Locations']/parent::*</value>
+      <webElementGuid>9c2551f6-bea9-40e8-af9b-27bb7c7bcf12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/header</value>
+      <webElementGuid>951d92b2-95c2-4afb-96a5-206be5f8b96d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//header[(text() = 'Watch Locations' or . = 'Watch Locations')]</value>
+      <webElementGuid>1ae232eb-270f-482c-a4b7-75218768a724</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

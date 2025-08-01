@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_NO_k-switch-thumb k-rounded-full</name>
+   <tag></tag>
+   <elementGuidId>7c3cae7e-bab8-4877-94b8-0c872af69bdd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-switch-thumb.k-rounded-full</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='CreateExportCustomerForm']/div/div[7]/span/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>98392c89-c6cc-4c0c-883c-a8e2712926c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-switch-thumb k-rounded-full</value>
+      <webElementGuid>d088b424-bf1f-48a8-8523-288a304d4ad8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;CreateExportCustomerForm&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 mb-3&quot;]/span[@class=&quot;k-switch k-switch-md k-rounded-full k-switch-off&quot;]/span[@class=&quot;k-switch-thumb-wrap&quot;]/span[@class=&quot;k-switch-thumb k-rounded-full&quot;]</value>
+      <webElementGuid>145fcd16-1e57-47a5-9520-e0e43c8f9339</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='CreateExportCustomerForm']/div/div[7]/span/span[2]/span</value>
+      <webElementGuid>98a93c0e-d7fc-4754-bf16-41aeb3b38277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/span/span[2]/span</value>
+      <webElementGuid>cdd02e1f-c06f-4471-8584-f2ef07f01b4c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

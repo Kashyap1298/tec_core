@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Is not equal to_k-textbox k-input k-in_7ef6ce</name>
+   <tag></tag>
+   <elementGuidId>9ae2ade3-06b2-405e-92ed-b500f842d392</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='eda6a16d-00b4-40a4-8c2e-567182823ed1']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-textbox.k-input.k-input-md.k-rounded-md.k-input-solid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5b2382fc-7792-4bdb-972e-c2d2a7e16c37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-textbox k-input k-input-md k-rounded-md k-input-solid</value>
+      <webElementGuid>913dc29e-dd05-4e7e-b1f6-3dcaacccc684</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eda6a16d-00b4-40a4-8c2e-567182823ed1&quot;)/div[@class=&quot;k-toolbar-item k-filter-value k-toolbar-tool&quot;]/span[@class=&quot;k-textbox k-input k-input-md k-rounded-md k-input-solid&quot;]</value>
+      <webElementGuid>2af98fda-7249-4ed4-9777-cb0eb908e304</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='eda6a16d-00b4-40a4-8c2e-567182823ed1']/div/span</value>
+      <webElementGuid>f66a4057-238c-47c2-9773-c6517e4ba866</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Is not equal to'])[1]/following::span[3]</value>
+      <webElementGuid>b373266f-97c0-4ecc-9743-46875d05a1fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEC Customer Number'])[1]/following::span[9]</value>
+      <webElementGuid>acdfd3d2-e307-4edf-b1c3-af4d49c0b5c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='('])[1]/preceding::span[2]</value>
+      <webElementGuid>b038effe-2f91-4c84-a42d-d16e766cb3ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEC Customer Number'])[3]/preceding::span[3]</value>
+      <webElementGuid>a6fc32e5-5df3-4366-80df-0ea9a9309074</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/div/span</value>
+      <webElementGuid>7cf260c5-ef72-4fa9-9747-0c9676986b7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

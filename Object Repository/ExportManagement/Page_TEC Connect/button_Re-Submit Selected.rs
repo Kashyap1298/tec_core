@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Re-Submit Selected</name>
+   <tag></tag>
+   <elementGuidId>45f4a21a-cf27-41ef-86d5-950e99121ccd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='bulkResubmitBtn']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#bulkResubmitBtn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5f67a5e3-bd10-4871-8a38-f5e97cf3c647</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>bulkResubmitBtn</value>
+      <webElementGuid>0206bb5a-fa43-41c4-b295-0593e1f1afb4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary py-2 bulkResubmitBtn</value>
+      <webElementGuid>5db9d96a-fc49-4157-9a2d-0ef423b01872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-grid</name>
+      <type>Main</type>
+      <value>#grdAllExportQueues</value>
+      <webElementGuid>d7bbe6dc-21f1-4a59-9a25-238d9079b07c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Re-Submit selected items</value>
+      <webElementGuid>39ccedb7-c8ae-43e2-a4d8-cc2ba674e8fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+						 Re-Submit Selected
+					</value>
+      <webElementGuid>6a636d23-1c2e-42b4-93fb-ef03cdda6c67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bulkResubmitBtn&quot;)</value>
+      <webElementGuid>bc6f3af9-edc3-4997-929b-77d4cf4c46ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='bulkResubmitBtn']</value>
+      <webElementGuid>0269a944-f94c-4f1e-8884-ee89e6d3390b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='page-body-content']/div[3]/div/div[2]/div[2]/div/button</value>
+      <webElementGuid>6e33763b-4816-449b-9caa-6c7b0943820f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Apply'])[1]/following::button[1]</value>
+      <webElementGuid>8203b578-b4f8-4ee9-96f6-9eb8db112a45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or'])[1]/following::button[5]</value>
+      <webElementGuid>f271fde0-e0db-44d5-8d10-1f93e13486ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Re-Submit'])[1]/preceding::button[1]</value>
+      <webElementGuid>98218b74-86e2-4aa6-a4ea-181ada1f7192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delayed'])[1]/preceding::button[1]</value>
+      <webElementGuid>f6652527-ec2d-4b92-838e-d13ed6daf895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Re-Submit Selected']/parent::*</value>
+      <webElementGuid>c3a1683e-d091-4972-93b3-9f0285b5a5f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/button</value>
+      <webElementGuid>2807489c-7905-4151-a735-54be3e2a68c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@id = 'bulkResubmitBtn' and @title = 'Re-Submit selected items' and (text() = '
+						 Re-Submit Selected
+					' or . = '
+						 Re-Submit Selected
+					')]</value>
+      <webElementGuid>e2f288c1-55d9-428f-b51f-947953289fa5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

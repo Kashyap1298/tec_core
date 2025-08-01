@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Contains_k-textbox k-input k-input-md _844e4d</name>
+   <tag></tag>
+   <elementGuidId>13c45524-e2e5-4924-93ec-b0986715decb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='baa1e7aa-7b88-4317-98ab-731eb3da1b3a']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-textbox.k-input.k-input-md.k-rounded-md.k-input-solid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>21205cb2-901f-40d6-9411-ddcda103dbf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-textbox k-input k-input-md k-rounded-md k-input-solid</value>
+      <webElementGuid>76e83742-481c-4b38-a2bd-811cd2a78679</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;baa1e7aa-7b88-4317-98ab-731eb3da1b3a&quot;)/div[@class=&quot;k-toolbar-item k-filter-value k-toolbar-tool&quot;]/span[@class=&quot;k-textbox k-input k-input-md k-rounded-md k-input-solid&quot;]</value>
+      <webElementGuid>0b12556c-47ac-48e0-bdef-4ec35dcdb3ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='baa1e7aa-7b88-4317-98ab-731eb3da1b3a']/div/span</value>
+      <webElementGuid>9c990130-255a-43c5-9db5-a8b1648a109a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contains'])[1]/following::span[3]</value>
+      <webElementGuid>41d91552-4c40-457e-980a-b81189d45298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEC Customer Number'])[1]/following::span[9]</value>
+      <webElementGuid>97a90ea9-9e24-408e-905a-a8bc8d38b60a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='('])[1]/preceding::span[2]</value>
+      <webElementGuid>d2ec38ed-e31d-4d6a-97e1-b1025f9d2ab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEC Customer Number'])[3]/preceding::span[3]</value>
+      <webElementGuid>348b4704-c320-4bed-a7fe-86523e504120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/div/span</value>
+      <webElementGuid>167bdf2f-24c2-44e2-8bdc-e561ca08b77b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
