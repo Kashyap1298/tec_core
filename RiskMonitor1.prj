@@ -11,7 +11,15 @@
    <modifiedEdition>FREE</modifiedEdition>
    <modifiedVersion>10.2.2</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+<<<<<<< HEAD
    <projectFileLocation>C:\Users\kashyap.padhiyar\Katalon Studio\tec_core_01-08-25\RiskMonitor1\RiskMonitor1.prj</projectFileLocation>
+=======
+<<<<<<< HEAD
+   <projectFileLocation>C:\Users\kashyap.padhiyar\Katalon Studio\New folder\RiskMonitor1\RiskMonitor1\RiskMonitor1.prj</projectFileLocation>
+=======
+   <projectFileLocation>C:\Users\kashyap.padhiyar\Katalon Studio\New folder\RiskMonitor1\RiskMonitor1.prj</projectFileLocation>
+>>>>>>> bf622dca1a88b3786a7d271e8fe32a9eace410fc
+>>>>>>> 233cd5317174b1efd0a4c8e7968be94f629d3e3e
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

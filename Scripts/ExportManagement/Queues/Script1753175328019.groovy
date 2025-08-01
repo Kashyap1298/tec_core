@@ -29,7 +29,10 @@ WebUI.setEncryptedText(findTestObject('Object Repository/ExportManagement/Page_R
 WebUI.click(findTestObject('Object Repository/ExportManagement/Page_Risk Monitor - Log In/button_Login'))
 
 WebUI.click(findTestObject('Object Repository/ExportManagement/Page_TEC Connect/span_Export Management'))*/
+<<<<<<< HEAD
 
+=======
+>>>>>>> 233cd5317174b1efd0a4c8e7968be94f629d3e3e
 WebUI.delay(3)
 
 WebUI.click(findTestObject('Object Repository/ExportManagement/Page_TEC Connect/span_Queues'))
@@ -48,9 +51,12 @@ WebUI.delay(1)
 
 WebUI.click(findTestObject('Object Repository/ExportManagement/Page_TEC Connect/input_Has Document_k-select-checkbox k-chec_bdcdac'))
 
+<<<<<<< HEAD
 WebUI.scrollToElement(findTestObject('Object Repository/ExportManagement/Page_TEC Connect/input_Has Document_k-select-checkbox k-chec_bdcdac_1'), 
     0)
 
+=======
+>>>>>>> 233cd5317174b1efd0a4c8e7968be94f629d3e3e
 WebUI.click(findTestObject('Object Repository/ExportManagement/Page_TEC Connect/input_Has Document_k-select-checkbox k-chec_bdcdac_1'))
 
 WebUI.click(findTestObject('Object Repository/ExportManagement/Page_TEC Connect/input_Has Document_k-select-checkbox k-chec_bdcdac_1_2'))
@@ -59,10 +65,13 @@ WebUI.click(findTestObject('Object Repository/ExportManagement/Page_TEC Connect/
 
 WebUI.delay(1)
 
+<<<<<<< HEAD
 WebUI.scrollToPosition(0, 0)
 
 WebUI.delay(2)
 
+=======
+>>>>>>> 233cd5317174b1efd0a4c8e7968be94f629d3e3e
 WebUI.click(findTestObject('Object Repository/ExportManagement/Page_TEC Connect/button_Re-Submit Selected'))
 
 WebUI.acceptAlert()
@@ -105,6 +114,7 @@ WebUI.click(findTestObject('Object Repository/ExportManagement/Page_TEC Connect/
 
 WebUI.delay(1)
 
+<<<<<<< HEAD
 WebUI.scrollToPosition(0, 350)
 
 //WebUI.scrollToElement(findTestObject('ExportManagement/Page_TEC Connect/scroll_to_delayed'), 2)
@@ -113,6 +123,14 @@ WebUI.delay(3)
 WebUI.scrollToPosition(0, 0)
 
 //WebUI.scrollToElement(findTestObject('ExportManagement/Page_TEC Connect/button_Apply'), 1)
+=======
+WebUI.scrollToElement(findTestObject('ExportManagement/Page_TEC Connect/scroll_to_delayed'), 2)
+
+WebUI.delay(3)
+
+WebUI.scrollToElement(findTestObject('ExportManagement/Page_TEC Connect/button_Apply'), 1)
+
+>>>>>>> 233cd5317174b1efd0a4c8e7968be94f629d3e3e
 WebUI.delay(1)
 
 WebUI.click(findTestObject('ExportManagement/Page_TEC Connect/Close'))
@@ -145,6 +163,7 @@ WebUI.click(findTestObject('Object Repository/ExportManagement/Page_TEC Connect/
 
 WebUI.delay(1)
 
+<<<<<<< HEAD
 WebUI.scrollToPosition(0, 350)
 
 //WebUI.scrollToElement(findTestObject('ExportManagement/Page_TEC Connect/scroll_to_delayed'), 2)
@@ -153,6 +172,14 @@ WebUI.delay(1)
 WebUI.scrollToPosition(0, 0)
 
 //WebUI.scrollToElement(findTestObject('ExportManagement/Page_TEC Connect/button_Apply'), 2)
+=======
+WebUI.scrollToElement(findTestObject('ExportManagement/Page_TEC Connect/scroll_to_delayed'), 2)
+
+WebUI.delay(1)
+
+WebUI.scrollToElement(findTestObject('ExportManagement/Page_TEC Connect/button_Apply'), 2)
+
+>>>>>>> 233cd5317174b1efd0a4c8e7968be94f629d3e3e
 WebUI.delay(1)
 
 WebUI.click(findTestObject('ExportManagement/Page_TEC Connect/Close'))
@@ -191,6 +218,7 @@ WebUI.delay(1)
 
 WebUI.click(findTestObject('ExportManagement/Page_TEC Connect/button_Apply'))
 
+<<<<<<< HEAD
 WebUI.scrollToPosition(0, 350)
 
 //WebUI.scrollToElement(findTestObject('ExportManagement/Page_TEC Connect/scroll_to_delayed'), 2)
@@ -200,4 +228,13 @@ WebUI.scrollToPosition(0, 0)
 
 //WebUI.scrollToElement(findTestObject('ExportManagement/Page_TEC Connect/button_Apply'), 2)
 WebUI.delay(5)
+=======
+WebUI.scrollToElement(findTestObject('ExportManagement/Page_TEC Connect/scroll_to_delayed'), 2)
+
+WebUI.delay(1)
+
+WebUI.scrollToElement(findTestObject('ExportManagement/Page_TEC Connect/button_Apply'), 2)
+
+WebUI.delay(2)
+>>>>>>> 233cd5317174b1efd0a4c8e7968be94f629d3e3e
 

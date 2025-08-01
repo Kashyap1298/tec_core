@@ -30,8 +30,11 @@ WebUI.click(findTestObject('Object Repository/ExportManagement/Todo/Page_Risk Mo
 
 WebUI.click(findTestObject('Object Repository/ExportManagement/Todo/Page_TEC Connect/span_Export Management'))*/
 
+<<<<<<< HEAD
 WebUI.delay(5)
 
+=======
+>>>>>>> 233cd5317174b1efd0a4c8e7968be94f629d3e3e
 WebUI.click(findTestObject('Object Repository/ExportManagement/Todo/Page_TEC Connect/span_To Do'))
 
 WebUI.click(findTestObject('Object Repository/ExportManagement/Todo/Page_TEC Connect/input_Has Document_k-select-checkbox k-chec_bdcdac'))
@@ -76,7 +79,11 @@ WebUI.click(findTestObject('Object Repository/ExportManagement/Todo/Page_TEC Con
 
 WebUI.delay(1)
 
+<<<<<<< HEAD
 WebUI.click(findTestObject('ExportManagement/Todo/Page_TEC Connect/a_Re-Submit_1'))
+=======
+WebUI.click(findTestObject('Object Repository/ExportManagement/Todo/Page_TEC Connect/a_Re-Submit_1'))
+>>>>>>> 233cd5317174b1efd0a4c8e7968be94f629d3e3e
 
 WebUI.delay(1)
 

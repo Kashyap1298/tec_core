@@ -30,18 +30,15 @@ WebUI.setEncryptedText(findTestObject('Object Repository/testimportcustomer/Page
     'dm7VE3JXRq+8d40sWGbSgg==')
 
 WebUI.click(findTestObject('Object Repository/testimportcustomer/Page_Risk Monitor - Log In/button_Login'))*/
-//WebUI.click(findTestObject('Object Repository/testimportcustomer/Page_TEC Connect/span_Import Management'))
+
+WebUI.click(findTestObject('Object Repository/testimportcustomer/Page_TEC Connect/span_Import Management'))
 WebUI.click(findTestObject('Object Repository/testimportcustomer/Page_TEC Connect/span_Import Customer'))
 
 WebUI.click(findTestObject('Object Repository/testimportcustomer/Page_TEC Connect/a_Create New'))
 
-<<<<<<< HEAD
-WebUI.setText(findTestObject('Object Repository/testimportcustomer/Page_TEC Connect/input__Prophet21ID'), '10205')
-=======
-WebUI.setText(findTestObject('Object Repository/testimportcustomer/Page_TEC Connect/input__Prophet21ID'), '1031')
->>>>>>> 233cd5317174b1efd0a4c8e7968be94f629d3e3e
+WebUI.setText(findTestObject('Object Repository/testimportcustomer/Page_TEC Connect/input__Prophet21ID'), '116')
 
-WebUI.setText(findTestObject('Object Repository/testimportcustomer/Page_TEC Connect/input__CustNmbr'), '117')
+WebUI.setText(findTestObject('Object Repository/testimportcustomer/Page_TEC Connect/input__CustNmbr'), '116')
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/testimportcustomer/Page_TEC Connect/select_-- Select Import Type --CSV'), 
     'CSV', true)
@@ -54,31 +51,19 @@ WebUI.click(findTestObject('Object Repository/testimportcustomer/Page_TEC Connec
 
 WebUI.click(findTestObject('Object Repository/testimportcustomer/Page_TEC Connect/span_NO_k-switch-thumb k-rounded-full_1_2'))
 
-<<<<<<< HEAD
-WebUI.scrollToPosition(450, 300)
-
-WebUI.delay(1)
-
-//WebUI.scrollToElement(findTestObject('ImportCustomer/Page_Risk Monitor/span_NO_k-switch-thumb k-rounded-full_1_2_3'), 3)
-=======
 WebUI.delay(1)
 
 WebUI.scrollToElement(findTestObject('ImportCustomer/Page_Risk Monitor/span_NO_k-switch-thumb k-rounded-full_1_2_3'), 3)
 
->>>>>>> 233cd5317174b1efd0a4c8e7968be94f629d3e3e
 WebUI.click(findTestObject('Object Repository/testimportcustomer/Page_TEC Connect/span_NO_k-switch-thumb k-rounded-full_1_2_3'))
 
 WebUI.click(findTestObject('Object Repository/testimportcustomer/Page_TEC Connect/span_NO_k-switch-thumb k-rounded-full_1_2_3_4'))
 
 WebUI.delay(1)
 
-<<<<<<< HEAD
-//WebUI.scrollToElement(findTestObject('ImportCustomer/Page_Risk Monitor/span_NO_k-switch-thumb k-rounded-full_1_2_3_4_5'), 2)
-=======
 WebUI.scrollToElement(findTestObject('ImportCustomer/Page_Risk Monitor/span_NO_k-switch-thumb k-rounded-full_1_2_3_4_5'), 
     2)
 
->>>>>>> 233cd5317174b1efd0a4c8e7968be94f629d3e3e
 WebUI.click(findTestObject('Object Repository/testimportcustomer/Page_TEC Connect/span_NO_k-switch-thumb k-rounded-full_1_2_3_4_5'))
 
 WebUI.click(findTestObject('Object Repository/testimportcustomer/Page_TEC Connect/span_NO_k-switch-thumb k-rounded-full_1_2_3_4_5_6'))

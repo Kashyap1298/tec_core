@@ -21,8 +21,12 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.navigateToUrl('https://localhost:4432/Identity/Account/Login?ReturnUrl=%2F')
 
+<<<<<<< HEAD
 WebUI.setText(findTestObject('Object Repository/ExportManagement/Export_Customer/Page_Risk Monitor - Log In/input_Email_Email'), 
     'kashyap.padhiyar@support.xcellence-it.com')
+=======
+WebUI.setText(findTestObject('Object Repository/ExportManagement/Export_Customer/Page_Risk Monitor - Log In/input_Email_Email'), 'kashyap.padhiyar@support.xcellence-it.com')
+>>>>>>> 233cd5317174b1efd0a4c8e7968be94f629d3e3e
 
 WebUI.setEncryptedText(findTestObject('Object Repository/ExportManagement/Export_Customer/Page_Risk Monitor - Log In/input_Password_Password'), 
     'dm7VE3JXRq+8d40sWGbSgg==')
@@ -37,7 +41,11 @@ WebUI.click(findTestObject('Object Repository/ExportManagement/Export_Customer/P
 WebUI.click(findTestObject('Object Repository/ExportManagement/Export_Customer/Page_TEC Connect/a_Create New'))
 
 WebUI.setText(findTestObject('Object Repository/ExportManagement/Export_Customer/Page_TEC Connect/input__Prophet21ID'), 
+<<<<<<< HEAD
     '10205')
+=======
+    '1031')
+>>>>>>> 233cd5317174b1efd0a4c8e7968be94f629d3e3e
 
 WebUI.setText(findTestObject('Object Repository/ExportManagement/Export_Customer/Page_TEC Connect/input__CustNmbr'), '1234678986')
 
@@ -102,8 +110,11 @@ WebUI.delay(1)
 WebUI.setText(findTestObject('Object Repository/ExportManagement/Export_Customer/Page_TEC Connect/input__NotificationEmails'), 
     'test@gmail.com')
 
+<<<<<<< HEAD
 WebUI.scrollToPosition(400, 370)
 
+=======
+>>>>>>> 233cd5317174b1efd0a4c8e7968be94f629d3e3e
 WebUI.delay(1)
 
 WebUI.setText(findTestObject('Object Repository/ExportManagement/Export_Customer/Page_TEC Connect/input_External Username_ExternalUserName'), 
@@ -165,9 +176,12 @@ WebUI.setText(findTestObject('Object Repository/ExportManagement/Export_Customer
 
 WebUI.delay(1)
 
+<<<<<<< HEAD
 WebUI.scrollToElement(findTestObject('ExportManagement/Export_Customer/Page_TEC Connect/span_NO_k-switch-thumb k-rounded-full_1_2_3_4_5_6_7_8'), 
     1)
 
+=======
+>>>>>>> 233cd5317174b1efd0a4c8e7968be94f629d3e3e
 WebUI.click(findTestObject('Object Repository/ExportManagement/Export_Customer/Page_TEC Connect/span_NO_k-switch-thumb k-rounded-full_1_2_3_4_5_6_7_8'))
 
 WebUI.delay(1)

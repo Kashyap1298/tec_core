@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select delayed export type</name>
+   <tag></tag>
+   <elementGuidId>3e2df4e9-6974-45dc-8311-37b1d8d6d578</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-input-value-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@role='combobox']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8abbfa17-9eae-42e4-9aa2-6acd7b29165b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-input-value-text</value>
+      <webElementGuid>3d086353-e87c-495d-9480-e9a7b9550417</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select delayed export type...</value>
+      <webElementGuid>8844858d-3d68-4a2c-a984-1167a9460cea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;a71ad460-b132-4723-b49a-fa4eb212ba68&quot;)/span[@class=&quot;k-input-value-text&quot;]</value>
+      <webElementGuid>aa3086cc-c4a4-4f6e-94c5-5dd87e7a1b2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='a71ad460-b132-4723-b49a-fa4eb212ba68']/span</value>
+      <webElementGuid>1b45d0d1-061f-495c-bf83-dd3d561d0245</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::span[3]</value>
+      <webElementGuid>4438ff59-b9a2-4579-8593-e2e7b85ebf04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delayed Export Type'])[1]/following::span[4]</value>
+      <webElementGuid>18931f52-175e-4ddd-8b26-31aa0b104000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send Export Notification Email'])[1]/preceding::span[4]</value>
+      <webElementGuid>ee6f0745-aa1b-4caf-83f2-76bea767e728</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NO'])[1]/preceding::span[5]</value>
+      <webElementGuid>b658dc96-c765-4883-9923-a2bc2640f246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select delayed export type...']/parent::*</value>
+      <webElementGuid>10d389b6-6fc4-4a5f-8c8c-63456a5be189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/span[2]/span/span</value>
+      <webElementGuid>4340c779-e6d6-403c-986f-a7214c94653b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Select delayed export type...' or . = 'Select delayed export type...')]</value>
+      <webElementGuid>527d3024-b474-4469-8a86-21f42626850f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
