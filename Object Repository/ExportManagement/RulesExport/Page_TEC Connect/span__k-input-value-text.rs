@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__k-input-value-text</name>
+   <tag></tag>
+   <elementGuidId>3bb8dfee-45ac-4a59-9333-d3347d6047b9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#e9c501e8-0f3a-40ed-bd33-df41216343e2 > span.k-input-value-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='e9c501e8-0f3a-40ed-bd33-df41216343e2']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#customerRuleForm >> internal:text=&quot;Select export type...&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1eb49c13-51f0-45dd-abe7-cb69a28e814b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-input-value-text</value>
+      <webElementGuid>05984a99-93fc-4817-9e65-c9f811a02973</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select export type...</value>
+      <webElementGuid>98631879-84ea-4ebe-897f-9e0db9f70853</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;e9c501e8-0f3a-40ed-bd33-df41216343e2&quot;)/span[@class=&quot;k-input-value-text&quot;]</value>
+      <webElementGuid>6d5adb1b-2f3d-425e-865e-a6da731a0e55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='e9c501e8-0f3a-40ed-bd33-df41216343e2']/span</value>
+      <webElementGuid>ca8c67c4-d99c-447f-a073-e1ccab50e75a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::span[3]</value>
+      <webElementGuid>bb73d024-3427-4a84-a8b5-8a754c9c20a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export Type'])[3]/following::span[4]</value>
+      <webElementGuid>46a25b7c-a3c2-4e8a-8528-70cf336d4cce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Property Name'])[3]/preceding::span[4]</value>
+      <webElementGuid>e9f0e020-3a6f-4b4d-850d-a9a317b783d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/preceding::span[4]</value>
+      <webElementGuid>22e1f07f-d605-4590-9f02-7db8f7a8efdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select export type...']/parent::*</value>
+      <webElementGuid>3e65ce2a-7177-4612-93dc-24ff2fb6d840</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span/span</value>
+      <webElementGuid>295693d6-8773-4884-b87a-6c843cdcaa85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Select export type...' or . = 'Select export type...')]</value>
+      <webElementGuid>85785f44-32e4-4690-8d01-44c55ec4ce60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

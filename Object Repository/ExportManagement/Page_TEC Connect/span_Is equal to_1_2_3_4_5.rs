@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Is equal to_1_2_3_4_5</name>
+   <tag></tag>
+   <elementGuidId>21f809b5-60df-45ab-9624-5f93d4f22238</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='eac47c64-9ba9-463d-924d-e08d9c5f405d']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#eac47c64-9ba9-463d-924d-e08d9c5f405d > span.k-input-value-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bba80bef-ab77-4274-8e3a-24eb61268e45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-input-value-text</value>
+      <webElementGuid>6e06fa8d-b520-453d-9e92-f92b09b07685</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Is equal to</value>
+      <webElementGuid>f336d902-1c5a-441d-9258-e6cf1f930c75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eac47c64-9ba9-463d-924d-e08d9c5f405d&quot;)/span[@class=&quot;k-input-value-text&quot;]</value>
+      <webElementGuid>8ed3df51-69b2-42d4-a362-9437c9721eb9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='eac47c64-9ba9-463d-924d-e08d9c5f405d']/span</value>
+      <webElementGuid>d5f2d377-4202-4d13-a38c-1162b32a3ba7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEC Customer Number'])[1]/following::span[6]</value>
+      <webElementGuid>b8b2e6f3-32da-452b-8be9-d20ef3f5d85d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or'])[1]/following::span[13]</value>
+      <webElementGuid>32d0328f-3393-41c1-82f9-a064532a1651</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='('])[1]/preceding::span[5]</value>
+      <webElementGuid>2c39e667-0f5e-46e6-b217-7c3fdf142f10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TEC Customer Number'])[3]/preceding::span[6]</value>
+      <webElementGuid>393b5163-50bc-459a-9f83-be38835dc349</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Is equal to']/parent::*</value>
+      <webElementGuid>f7bd28d7-7dab-4589-a96f-08ec89c8d6e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span/span/span</value>
+      <webElementGuid>3fe5ee9b-ece4-4bac-900f-ceffd5968eb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Is equal to' or . = 'Is equal to')]</value>
+      <webElementGuid>da5f127f-ad0c-4fe1-ae1a-89d77331690e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

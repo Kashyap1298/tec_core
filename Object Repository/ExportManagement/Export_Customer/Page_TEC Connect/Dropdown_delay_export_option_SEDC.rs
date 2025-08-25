@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>Dropdown_delay_export_option_SEDC</description>
+   <name>Dropdown_delay_export_option_SEDC</name>
+   <tag></tag>
+   <elementGuidId>7d6aa186-6fbc-47a5-8fcc-943b3797f8a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div//span[@class='k-input-value-text'][contains(text(),'DAFFRON')]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

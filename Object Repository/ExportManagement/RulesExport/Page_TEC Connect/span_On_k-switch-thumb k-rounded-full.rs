@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_On_k-switch-thumb k-rounded-full</name>
+   <tag></tag>
+   <elementGuidId>a8510cd3-e4eb-4802-9778-680c6c29f9f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-switch-thumb.k-rounded-full</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='customerRuleForm']/div[2]/div[5]/div/span/span[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=switch[name=&quot;Evaluate True Result&quot;i] >> span >> nth=4</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>27cfd136-5756-4a52-9574-48e2333b1ab4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-switch-thumb k-rounded-full</value>
+      <webElementGuid>5dd9c8a8-1af9-4651-ab61-b97e0680e1be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;customerRuleForm&quot;)/div[@class=&quot;modal-body&quot;]/div[@class=&quot;row mt-3&quot;]/div[@class=&quot;col-md-6 form-check d-flex align-items-center gap-2&quot;]/span[@class=&quot;k-switch k-switch-md k-rounded-full k-switch-on&quot;]/span[@class=&quot;k-switch-thumb-wrap&quot;]/span[@class=&quot;k-switch-thumb k-rounded-full&quot;]</value>
+      <webElementGuid>728740e0-88bf-4f73-a20c-23451e64fd79</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='customerRuleForm']/div[2]/div[5]/div/span/span[2]/span</value>
+      <webElementGuid>1a2d3edb-f7cf-4a74-8025-a11b444e1891</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/span/span[2]/span</value>
+      <webElementGuid>5bb9a13e-4e77-4676-9480-fbee33ac36c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_true_btn btn-primary</name>
+   <tag></tag>
+   <elementGuidId>10bada42-3e05-4b31-b913-a6b33affa279</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='d2c94039-6402-4bb9-8011-c7b6b6d1e819']/tr[2]/td/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>tr.k-alt.k-table-row.k-table-alt-row.k-master-row > td.k-table-td > a.btn.btn-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Edit Delete 3 SPA012 CSV false 2003 true true true false false false false false false true false false true false&quot;i] >> internal:role=link >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6c8556a5-67f2-4484-abf4-c9f4c44f3719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>7a82d2f4-2950-4d6f-8b4d-f3b3bce394ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/Import/ImportCustomer/Edit/3</value>
+      <webElementGuid>c291acaf-3bd5-4d3c-b40d-a4a73250e39a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>fa676a98-d2ea-4f88-9658-665d6d292230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;d2c94039-6402-4bb9-8011-c7b6b6d1e819&quot;)/tr[@class=&quot;k-alt k-table-row k-table-alt-row k-master-row&quot;]/td[@class=&quot;k-table-td&quot;]/a[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>a9a10c93-cd86-4804-808f-b96a7a9a7ae9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='d2c94039-6402-4bb9-8011-c7b6b6d1e819']/tr[2]/td/a</value>
+      <webElementGuid>8e5cc2ff-35b1-4909-8147-500c6ffc776c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Edit')])[2]</value>
+      <webElementGuid>67defddd-fb50-4fee-8140-77afd5302820</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='true'])[12]/following::a[1]</value>
+      <webElementGuid>ac4afd37-f3b8-42f3-971f-d45780604907</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='true'])[11]/following::a[1]</value>
+      <webElementGuid>849ee0e9-fe64-4233-84e2-a009e98ba625</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[3]/preceding::a[1]</value>
+      <webElementGuid>8d776472-1bee-4046-914b-68899cb7974d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SPA012'])[1]/preceding::a[2]</value>
+      <webElementGuid>c48df792-2784-4ffe-8268-5d2b7ead715f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/Import/ImportCustomer/Edit/3')]</value>
+      <webElementGuid>37cfe717-7434-4cab-a79a-699740d678e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/a</value>
+      <webElementGuid>ee540df5-8eb0-48f3-aa59-e49a205a7e4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/Import/ImportCustomer/Edit/3' and (text() = 'Edit' or . = 'Edit')]</value>
+      <webElementGuid>a87ab3e4-5bf0-43b5-83f1-b47d876cb6ff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

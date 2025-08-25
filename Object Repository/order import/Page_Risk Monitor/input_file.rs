@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_file</name>
+   <tag></tag>
+   <elementGuidId>dba9acfa-5389-4a22-a078-9a511029a159</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.k-dropzone-hint</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Drop files here to upload' or . = 'Drop files here to upload')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='orderFile']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2fb22338-a165-40d4-b452-90b46a335723</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-dropzone-hint</value>
+      <webElementGuid>d532d27e-fba2-4f6d-bbe0-73ca4960d18b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Drop files here to upload</value>
+      <webElementGuid>31a844e7-ed86-4556-bdd2-c3b0dc4f5c94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;upload-enabled-wrapper&quot;)/div[@class=&quot;k-upload k-upload-async k-upload-empty&quot;]/div[@class=&quot;k-dropzone k-upload-dropzone&quot;]/span[@class=&quot;k-dropzone-hint&quot;]</value>
+      <webElementGuid>d095011b-1df9-4c5b-b178-8886f8e325e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='upload-enabled-wrapper']/div/div/span</value>
+      <webElementGuid>8200f17d-87c8-4a11-b0b4-e6770d352dac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select files...'])[1]/following::span[1]</value>
+      <webElementGuid>84cef62c-e5d9-40a6-8271-26c8c0c82521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select both a customer and a location before uploading files.'])[1]/following::span[2]</value>
+      <webElementGuid>6867fbd0-608d-461c-a075-7a1822d5ae1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UserName'])[1]/preceding::span[2]</value>
+      <webElementGuid>d561ce3c-af3d-4f80-afe7-a7ad03316376</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attempt Date'])[1]/preceding::span[6]</value>
+      <webElementGuid>1b209ef4-3635-431d-a73b-194b83a2d5ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Drop files here to upload']/parent::*</value>
+      <webElementGuid>937ab8f2-7b31-44e0-8266-5105cdcf73a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/span</value>
+      <webElementGuid>f9e5a2cd-36be-4cd3-8e55-7650f59168e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Drop files here to upload' or . = 'Drop files here to upload')]</value>
+      <webElementGuid>547e4176-a821-4c50-ba39-1275e891a6a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>//input[@id='orderFile']</value>
+      <webElementGuid>ac2079d2-b9fe-40f5-889f-d78f56971100</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

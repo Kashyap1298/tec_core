@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_All Exports_k-list-item-text</name>
+   <tag></tag>
+   <elementGuidId>ed94bc88-55b7-4b03-9008-5780c7ddca58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.k-list-item.k-hover > span.k-list-item-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//ul[@id='ExportTypeId_listbox']/li[2]/span)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;​DAFFRON&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>79e4c4ea-f8a0-4f88-8505-9348c92f0713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-list-item-text</value>
+      <webElementGuid>4f2a15e1-b6ee-4a6f-b5ad-7baf8aa1b6ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DAFFRON</value>
+      <webElementGuid>5c274bb6-7cb5-44a6-8a99-cf124c9c73f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;k-webkit k-webkit139 mdl-js&quot;]/body[@class=&quot;page-header-fixed sidemenu-closed-hidelogo page-content-white page-md white-color white-sidebar-color logo-white header-white modal-open&quot;]/div[@class=&quot;k-animation-container k-animation-container-shown&quot;]/div[@class=&quot;k-child-animation-container&quot;]/div[@class=&quot;k-list-container k-popup&quot;]/div[@id=&quot;ExportTypeId-list&quot;]/div[@class=&quot;k-list-content k-list-scroller&quot;]/ul[@id=&quot;ExportTypeId_listbox&quot;]/li[@class=&quot;k-list-item k-hover&quot;]/span[@class=&quot;k-list-item-text&quot;]</value>
+      <webElementGuid>f955286b-afe5-4ef2-b5a9-5dd310d75609</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//ul[@id='ExportTypeId_listbox']/li[2]/span)[2]</value>
+      <webElementGuid>ad60319e-8d15-4a41-a59c-b9fdb829c974</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Exports'])[20]/following::span[1]</value>
+      <webElementGuid>9be0270a-85a6-4523-b1ec-4582a09925e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select export type...'])[2]/following::span[2]</value>
+      <webElementGuid>99d1aa5e-f567-40cb-b892-e7a7b6b90bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JUST_DELAYED'])[4]/preceding::span[1]</value>
+      <webElementGuid>f2850ce1-3117-45c7-bacc-506bdfa5e82d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NISC_FLATFILE'])[2]/preceding::span[2]</value>
+      <webElementGuid>eac036d5-99ff-42d6-b3a1-8da6130d1d14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div[3]/ul/li[2]/span</value>
+      <webElementGuid>109e8595-6920-48c7-a2d0-8051154fa3dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'DAFFRON' or . = 'DAFFRON')]</value>
+      <webElementGuid>f9fe464e-505a-4c44-8151-cf6ffb7a7793</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

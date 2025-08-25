@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select Location_k-list-item-text</name>
+   <tag></tag>
+   <elementGuidId>06068ce4-8df4-4170-b94f-2bb728c833be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='c28a5347-441f-4281-a10a-ae45b0a6484e']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#c28a5347-441f-4281-a10a-ae45b0a6484e > span.k-list-item-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;​209&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a13798c2-7fa9-4158-92ad-3deadb573dac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-list-item-text</value>
+      <webElementGuid>19bff002-db6a-4c18-8562-e15fa7326561</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>209</value>
+      <webElementGuid>9cdf15c9-cef3-4c4a-a77e-4a7504a60e6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;c28a5347-441f-4281-a10a-ae45b0a6484e&quot;)/span[@class=&quot;k-list-item-text&quot;]</value>
+      <webElementGuid>f7532539-0ac0-40ff-b596-eefe3ced30ef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='c28a5347-441f-4281-a10a-ae45b0a6484e']/span</value>
+      <webElementGuid>b1e93427-d1a3-4457-813a-df4935655b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Location...'])[1]/following::span[1]</value>
+      <webElementGuid>ba1d51be-a47e-47a3-bc8c-f4a2ba4634c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No data found.'])[1]/following::span[3]</value>
+      <webElementGuid>8c9640db-b277-4805-a6b5-f37d4f330973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No data found.'])[2]/preceding::span[1]</value>
+      <webElementGuid>017d17b4-82db-433c-b3dd-78ed7de2fc44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No data found.'])[3]/preceding::span[7]</value>
+      <webElementGuid>e7af1529-38ba-4afd-ae11-5d089a4d3479</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]/div[3]/ul/li/span</value>
+      <webElementGuid>9aec903e-6e2d-4e09-8817-c3ff1e2d3544</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '209' or . = '209')]</value>
+      <webElementGuid>59d4a18c-eade-49b5-a7ca-5f21aff86224</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Select Location_k-input-value-text</name>
+   <tag></tag>
+   <elementGuidId>91d69afd-91f3-40db-a213-0734d9923218</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ec77cefe-42c6-497e-ae54-8d3ac894b23b > span.k-input-value-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='ec77cefe-42c6-497e-ae54-8d3ac894b23b']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#page-body-content >> internal:text=&quot;Select Location...&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2aaa10a8-80c9-4522-95b8-e9391d9b6004</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-input-value-text</value>
+      <webElementGuid>55f9b098-654e-4f68-9fed-a08ebcb6a787</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select Location...</value>
+      <webElementGuid>ff4d278b-51f5-4f0d-8efa-006b040db36a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ec77cefe-42c6-497e-ae54-8d3ac894b23b&quot;)/span[@class=&quot;k-input-value-text&quot;]</value>
+      <webElementGuid>460dbdfe-4e0b-442e-a268-a25387037565</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='ec77cefe-42c6-497e-ae54-8d3ac894b23b']/span</value>
+      <webElementGuid>0c86733e-7aa7-48e3-b601-34915f211104</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Location'])[1]/following::span[3]</value>
+      <webElementGuid>ca01a55e-b6a5-4c76-8c46-45e58b0b9a31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LPT004'])[1]/following::span[6]</value>
+      <webElementGuid>d2042a53-cd23-46c5-8b35-d51906a9de6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload CSV File'])[1]/preceding::span[4]</value>
+      <webElementGuid>8a455232-310f-4864-9326-ee4832c2d6f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please select both a customer and a location before uploading files.'])[1]/preceding::span[4]</value>
+      <webElementGuid>0061911c-4ff3-4fc2-95ce-0705883173b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select Location...']/parent::*</value>
+      <webElementGuid>fa57f137-3b03-45e8-98e9-9470ac49aed7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/span/span</value>
+      <webElementGuid>b9e892c3-77b7-4043-98ea-c3bde381f641</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Select Location...' or . = 'Select Location...')]</value>
+      <webElementGuid>e133dfed-e67f-4b8d-ba1a-9f07f293b29e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_View_fa fa-eye</name>
+   <tag></tag>
+   <elementGuidId>2687e3ed-fa55-4ce2-8a9e-bf04e7c4ea22</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-eye</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3ed9a46c-4fd2-4f05-9247-0ba3268b1d01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-eye</value>
+      <webElementGuid>e6db02af-98fe-4a5a-b15c-4640f2c325bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;k-webkit k-webkit138&quot;]/body[1]/div[@class=&quot;page-wrapper&quot;]/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-12&quot;]/div[@class=&quot;export-queue-header mb-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-6 pl-md-5&quot;]/table[@class=&quot;table table-borderless table-sm mb-0 export-details-table&quot;]/tbody[1]/tr[1]/td[1]/button[@class=&quot;btn btn-info btn-sm ml-2 header-popup-btn&quot;]/i[@class=&quot;fa fa-eye&quot;]</value>
+      <webElementGuid>ba72642f-90e0-456a-9054-d5798fe7e131</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>0cfeed03-0da5-4431-a060-2782f4a4e813</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

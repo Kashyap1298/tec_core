@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_JUST_DELAYED_k-list-item-text</name>
+   <tag></tag>
+   <elementGuidId>c813678d-22fd-474c-9750-6a2e1998ca70</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.k-list-item.k-hover > span.k-list-item-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='k-input-value-text'][normalize-space()='JUST_DELAYED']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;​JUST_DELAYED&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b5176a5f-dd42-4a5c-a75f-32018b7d3321</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-list-item-text</value>
+      <webElementGuid>1ef1dde3-5317-46d2-ba8e-6c84ff111140</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JUST_DELAYED</value>
+      <webElementGuid>85dbbb08-8a48-43a7-a814-c21c95f22ce8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;k-webkit k-webkit139 mdl-js&quot;]/body[@class=&quot;page-header-fixed sidemenu-closed-hidelogo page-content-white page-md white-color white-sidebar-color logo-white header-white modal-open&quot;]/div[@class=&quot;k-animation-container k-animation-container-shown&quot;]/div[@class=&quot;k-child-animation-container&quot;]/div[@class=&quot;k-list-container k-popup&quot;]/div[@id=&quot;ExportTypeId-list&quot;]/div[@class=&quot;k-list-content k-list-scroller&quot;]/ul[@id=&quot;ExportTypeId_listbox&quot;]/li[@class=&quot;k-list-item k-hover&quot;]/span[@class=&quot;k-list-item-text&quot;]</value>
+      <webElementGuid>e02d41ea-37c6-4b51-b189-dc04c50f15f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//ul[@id='ExportTypeId_listbox']/li[3]/span)[2]</value>
+      <webElementGuid>0ae679db-51b4-4237-a99e-614ef46d340e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DAFFRON'])[2]/following::span[1]</value>
+      <webElementGuid>051ba827-e17f-45f3-86ec-7f2adfb15710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Exports'])[20]/following::span[2]</value>
+      <webElementGuid>039a8ef3-efcc-416d-b51a-b636450dda1d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NISC_FLATFILE'])[2]/preceding::span[1]</value>
+      <webElementGuid>0cf8c70a-e038-4855-819c-420722d2d9af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NISC_W7_PO'])[2]/preceding::span[2]</value>
+      <webElementGuid>1a72e0c6-60d7-472a-8552-334b82b435ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div[3]/ul/li[3]/span</value>
+      <webElementGuid>01278381-c594-478c-a5de-bccafdafd92a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'JUST_DELAYED' or . = 'JUST_DELAYED')]</value>
+      <webElementGuid>0d5cc0b6-9b60-4ba3-8ac7-d2143d182103</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

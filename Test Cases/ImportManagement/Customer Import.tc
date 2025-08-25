@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Customer Import</description>
+   <name>Customer Import</name>
+   <tag>Customer Import</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aa47baba-4b06-4f73-a2c6-dc173e281e45</testCaseGuid>
+</TestCaseEntity>

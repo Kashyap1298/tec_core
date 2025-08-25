@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Edit_Custmer</description>
+   <name>Edit_Custmer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f91b8218-9224-4372-b040-99aa8e0610f7</testCaseGuid>
+</TestCaseEntity>

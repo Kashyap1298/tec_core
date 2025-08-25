@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_Export Type_k-table-td</name>
+   <tag></tag>
+   <elementGuidId>a7deeb49-24ca-495f-87da-c6a90e1940cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.k-table-td</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='d3d74ff4-66d2-49b7-9ed9-bc17d03cc42c']/tr/td</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.k-table-td >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>e2240f6a-ad2a-4525-b52b-e74b1a1f10d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-table-td</value>
+      <webElementGuid>b280c55d-4c97-4c68-8561-102ff77c01d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>gridcell</value>
+      <webElementGuid>fcc5fa95-09bb-4c08-b9f5-a292e057d92f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>a4cba283-3ba8-4fcc-a969-9b53fbee8a80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;d3d74ff4-66d2-49b7-9ed9-bc17d03cc42c&quot;)/tr[@class=&quot;k-table-row k-master-row&quot;]/td[@class=&quot;k-table-td&quot;]</value>
+      <webElementGuid>4be4151d-0f5f-4e99-bc86-10d44148c582</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='d3d74ff4-66d2-49b7-9ed9-bc17d03cc42c']/tr/td</value>
+      <webElementGuid>3ca2083c-6d28-42f4-95ac-693bca723373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Export Type'])[1]/following::td[1]</value>
+      <webElementGuid>0234ff67-e52e-468e-a1bb-20c27221c7b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Result When False'])[1]/following::td[1]</value>
+      <webElementGuid>e84ac4b0-e9dc-45e7-a69e-afdc84e697c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[2]/preceding::td[1]</value>
+      <webElementGuid>52bfe1ff-4684-4a9c-85d8-58233ff7f23a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td</value>
+      <webElementGuid>1e78992d-bb46-4b66-8626-57ed25e14089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Edit' or . = 'Edit')]</value>
+      <webElementGuid>01aa46ab-10b3-4cdb-8f27-1db8671673f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
