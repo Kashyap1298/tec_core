@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Excel</name>
+   <tag></tag>
+   <elementGuidId>3ed385f3-3fc8-4be0-9d94-68b22ad14a16</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.k-list-item.k-hover > span.k-list-item-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@class='k-input-value-text']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e33d47a6-2e3b-419f-9776-2a98fdf0db31</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>k-list-item-text</value>
+      <webElementGuid>142b87d5-28b1-4dcc-be87-706d1173f9b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Excel</value>
+      <webElementGuid>be79410b-43d3-48a2-8020-db25cf37c97f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ExportTypesList_listbox&quot;)/li[@class=&quot;k-list-item k-hover&quot;]/span[@class=&quot;k-list-item-text&quot;]</value>
+      <webElementGuid>b6a00cba-7ad6-409a-8a2e-9e9b5468fe64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='ExportTypesList_listbox']/li[4]/span</value>
+      <webElementGuid>67117b15-c249-46e7-b86a-adb000ec1ff6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PDF'])[3]/following::span[1]</value>
+      <webElementGuid>aace6413-ddda-4588-82be-7c3b7982fa28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='XML'])[2]/following::span[2]</value>
+      <webElementGuid>a0acbe91-f421-4011-8016-0b396286fe11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No data found.'])[1]/preceding::span[1]</value>
+      <webElementGuid>b7638c57-5396-492b-8fb5-422707a0799a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select delayed export type...'])[2]/preceding::span[1]</value>
+      <webElementGuid>c7b71bdc-7c16-4cf2-8f8a-caae0c8a43cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/span</value>
+      <webElementGuid>ff15ad59-62a9-4f2c-a543-c8b0c533b721</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Excel' or . = 'Excel')]</value>
+      <webElementGuid>52bd150f-dc8f-4c3c-a3e3-67ccf9fac37f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
